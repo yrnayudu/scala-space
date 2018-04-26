@@ -1,0 +1,23 @@
+{
+  "V3": {
+    "Overall": 80,
+    "Endpoints": {
+      "GetMyName": 0,
+      "SetMyName": 0,
+      "GetOthersName": 90,
+      "SetOthersName": 0,
+      "GetMyDOB": 0,
+      "SetMyDOB": 0,
+      "GetOthersDOB": 5,
+      "SetOthersDOB": 0,
+      "GetMyGender": 0,
+      "SetMyGender": 0,
+      "GetOthersGender": 5,
+      "SetOthersGender": 0,
+      "GetOthersNickname": 1,
+      "SetOthersNickname": 0,
+      "GetMyNickname": 0,
+      "SetMyNickname": 0
+    }
+  }
+}
