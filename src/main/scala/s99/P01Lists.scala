@@ -46,6 +46,7 @@ object P01Lists {
     println("last recursion ::" + findLastElement(list))
     println("last but one recursion ::" + findLastButOneElement(list))
     println("nth element recursion :: "+ findNthElement(5, list))
+    println("for a commit")
     println("take :" + list.take(3))
     println("take :" + list.takeRight(2).head)
     println("last but one :" + lastButOneElement(list))
